@@ -10,11 +10,11 @@ Team ID : PNT2022TMID36177
 
 Team Leader : Sagaya Punitha.J
 
-Team member : Madhumitha.T
+Team member 1: Madhumitha.T
 
-Team member : Thaarani.P
+Team member 2: Thaarani.P
 
-Team member : Ramalingam.K
+Team member 3: Ramalingam.K
 
 ## Project Objectives :
 
